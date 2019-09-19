@@ -4,7 +4,8 @@
 
   <groupId>org.microbean</groupId>
   <artifactId>microbean-helm</artifactId>
-  <version>2.12.3.0.0.1-SNAPSHOT</version>
+  <!-- https://github.com/microbean/microbean-helm/issues/202 -->
+  <version>2.12.3.0.0.1-202</version>
 
   <parent>
     <groupId>org.microbean</groupId>
